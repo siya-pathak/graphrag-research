@@ -1,0 +1,13 @@
+Question,Metric,Leiden vs Louvain Win Rate A (%),Leiden vs Girvan-Newman Win Rate A (%),Leiden vs Infomap Win Rate A (%),Louvain vs Girvan-Newman Win Rate A (%),Louvain vs Infomap Win Rate A (%),Girvan-Newman vs Infomap Win Rate A (%)
+What are the overarching themes and ideas presented throughout the book?,comprehensiveness,75.00,75.00,0.00,75.00,25.00,66.67
+What are the relationships and interactions between major characters or entities across the book?,comprehensiveness,75.00,75.00,50.00,75.00,25.00,75.00
+What are the significant events or turning points in the book?,comprehensiveness,75.00,25.00,50.00,50.00,25.00,66.67
+What are the overarching themes and ideas presented throughout the book?,directness,75.00,50.00,50.00,50.00,50.00,0.00
+What are the relationships and interactions between major characters or entities across the book?,directness,50.00,50.00,33.33,66.67,25.00,25.00
+What are the significant events or turning points in the book?,directness,25.00,0.00,25.00,33.33,25.00,25.00
+What are the overarching themes and ideas presented throughout the book?,empowerment,66.67,25.00,66.67,25.00,0.00,50.00
+What are the relationships and interactions between major characters or entities across the book?,empowerment,50.00,66.67,50.00,66.67,25.00,75.00
+What are the significant events or turning points in the book?,empowerment,66.67,0.00,25.00,0.00,50.00,25.00
+What are the overarching themes and ideas presented throughout the book?,diversity,75.00,0.00,33.33,75.00,33.33,0.00
+What are the relationships and interactions between major characters or entities across the book?,diversity,75.00,75.00,25.00,50.00,25.00,50.00
+What are the significant events or turning points in the book?,diversity,100.00,75.00,50.00,33.33,25.00,50.00

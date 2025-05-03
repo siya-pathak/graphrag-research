@@ -1,0 +1,5 @@
+Question,Metric,Leiden vs Louvain Win Rate A (%),Leiden vs Girvan-Newman Win Rate A (%),Leiden vs Infomap Win Rate A (%),Louvain vs Girvan-Newman Win Rate A (%),Louvain vs Infomap Win Rate A (%),Girvan-Newman vs Infomap Win Rate A (%)
+What are the overarching themes and ideas presented throughout the book?,comprehensiveness,75.00,75.00,100.00,50.00,50.00,66.67
+What are the overarching themes and ideas presented throughout the book?,directness,75.00,25.00,50.00,50.00,25.00,75.00
+What are the overarching themes and ideas presented throughout the book?,empowerment,33.33,25.00,66.67,66.67,100.00,33.33
+What are the overarching themes and ideas presented throughout the book?,diversity,100.00,50.00,66.67,75.00,0.00,33.33
